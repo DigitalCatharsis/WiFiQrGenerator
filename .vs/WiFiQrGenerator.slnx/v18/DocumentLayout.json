@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\qrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\qrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\qrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\qrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\wifiqrgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\services\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\services\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\wifiqrgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FE2C9030-238C-4E16-817D-AB7E7744E95D}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|d:\\study\\c#\\wifiqrgenerator\\wifiqrgenerator\\wifiqrgenerator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7F83B57-19D5-6835-E5BE-37264A8D323E}|WiFiQrGenerator\\WiFiQrGenerator.csproj|solutionrelative:wifiqrgenerator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Loc.cs",
               "DocumentMoniker": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\Services\\Loc.cs",
               "RelativeDocumentMoniker": "WiFiQrGenerator\\Services\\Loc.cs",
@@ -75,12 +75,11 @@
               "RelativeToolTip": "WiFiQrGenerator\\Services\\Loc.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:02:22.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T12:02:22.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ConfigService.cs",
               "DocumentMoniker": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\Services\\ConfigService.cs",
               "RelativeDocumentMoniker": "WiFiQrGenerator\\Services\\ConfigService.cs",
@@ -88,12 +87,11 @@
               "RelativeToolTip": "WiFiQrGenerator\\Services\\ConfigService.cs",
               "ViewState": "AgIAACYAAAAAAAAAAADwv0IAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:02:05.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T12:02:05.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AppConfig.cs",
               "DocumentMoniker": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\Models\\AppConfig.cs",
               "RelativeDocumentMoniker": "WiFiQrGenerator\\Models\\AppConfig.cs",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "WiFiQrGenerator\\Models\\AppConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:00:49.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T12:00:49.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\App.xaml.cs",
               "RelativeDocumentMoniker": "WiFiQrGenerator\\App.xaml.cs",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "WiFiQrGenerator\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:00:20.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T12:00:20.291Z"
             },
             {
               "$type": "Document",
@@ -126,12 +122,11 @@
               "ToolTip": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\MainWindow.xaml",
               "RelativeToolTip": "WiFiQrGenerator\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-07T11:59:38.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T11:59:38.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WiFiQrGenerator\\MainWindow.xaml.cs",
@@ -139,8 +134,7 @@
               "RelativeToolTip": "WiFiQrGenerator\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T11:59:36.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T11:59:36.266Z"
             },
             {
               "$type": "Document",
@@ -152,21 +146,19 @@
               "RelativeToolTip": "WiFiQrGenerator\\Services\\WordService.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAADwv4MAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:02:54.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T12:02:54.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WiFiQrGenerator",
+              "DocumentIndex": 8,
+              "Title": "WiFiQrGenerator.csproj",
               "DocumentMoniker": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator.csproj",
               "RelativeDocumentMoniker": "WiFiQrGenerator\\WiFiQrGenerator.csproj",
               "ToolTip": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator.csproj",
               "RelativeToolTip": "WiFiQrGenerator\\WiFiQrGenerator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-07T11:59:59.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T11:59:59.243Z"
             },
             {
               "$type": "Document",
@@ -177,8 +169,7 @@
               "ToolTip": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\App.xaml",
               "RelativeToolTip": "WiFiQrGenerator\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-07T12:00:08.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T12:00:08.793Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WiFiQrGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2baf6df4bbb543ec3bc290ee1ba792915caed0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WiFiQrGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WiFiQrGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
