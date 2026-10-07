@@ -1,0 +1,13 @@
+{
+  "WindowWidth": 952,
+  "WindowHeight": 646,
+  "WindowState": "Normal",
+  "SavePath": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\bin\\Debug\\net8.0-windows\\1111111111",
+  "Ssid": "qwe__!!?*:?\u0022%\u2116:?;%?\u0022;:)(\u0022;()",
+  "Password": "qwe",
+  "AuthType": "WPA",
+  "SaveAsImage": true,
+  "OpenAfterGeneration": true,
+  "UseEnglish": false,
+  "LastConfigPath": "D:\\Study\\C#\\WiFiQrGenerator\\WiFiQrGenerator\\WiFiQrGenerator\\bin\\Debug\\net8.0-windows\\config.json"
+}
